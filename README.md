@@ -9,13 +9,9 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1. Collect training data (city features and profit values).
-
 2.Initialize parameters (θ0, θ1) and learning rate (α).
-
 3.Compute predicted profit using hypothesis function.
-
 4.Update parameters using gradient descent to reduce error.
-
 5.Repeat until convergence and use final model for prediction.
 
 ## Program:
